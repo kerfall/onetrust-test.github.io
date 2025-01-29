@@ -1,0 +1,12 @@
+{
+  "API_URL": "/api",
+  "API_VERSION": "1.0",
+  "APP_NAME": "Eurcap",
+  "AUTH_URL": "https://connect.dev.verlingue.fr/auth",
+  "AUTH_SCOPE": "eurcap",
+  "AUTH_REALM": "partenaires",
+  "AUTH_TIMEOUT": 1000,
+  "AUTH_MAX_RETRY_COUNT": 3,
+  "ANALYTICS_ID": "GTM-KTZ8XZW",
+  "CMS_URL": "/cms"
+}
